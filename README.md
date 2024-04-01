@@ -1,3 +1,3 @@
 FIREBASE BLOG RECODE
 ##
-![Alt text](./src/assets/demo.gif)
+https://fireblogs-e3c3c.web.app/
